@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\fpt\\MongoDBEcomSYS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\repositories\\order\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\repositories\\order\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\models\\dtoscreated\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\models\\dtoscreated\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\repositories\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\repositories\\order\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\services\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\services\\order\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\controllers\\shopcart\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\controllers\\shopcart\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\repositories\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\repositories\\order\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\models\\mongoecomsyscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\models\\mongoecomsyscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|c:\\fpt\\mongodbecomsys\\mongodbecomsys\\repositories\\order\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35125E16-69D3-410D-BDB5-0CFB3EE783AC}|MongoDBEcomSYS\\MongoDBEcomSYS.csproj|solutionrelative:mongodbecomsys\\repositories\\order\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T10:07:16.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Controllers\\ShopCart\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Controllers\\ShopCart\\OrdersController.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Controllers\\ShopCart\\OrdersController.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Controllers\\ShopCart\\OrdersController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:34:42.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Program.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Program.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Program.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAC0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:32:37.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Services\\order\\OrderService.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Services\\order\\OrderService.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Services\\order\\OrderService.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Services\\order\\OrderService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T09:06:19.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAhwA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:58:14.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoEcomsysContext.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\MongoEcomsysContext.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Models\\MongoEcomsysContext.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\MongoEcomsysContext.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Models\\MongoEcomsysContext.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvx8AAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:55:14.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckOut.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\DTOsCreated\\CheckOut.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Models\\DTOsCreated\\CheckOut.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Models\\DTOsCreated\\CheckOut.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Models\\DTOsCreated\\CheckOut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:45:03.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Repositories\\order\\PaymentRepository.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\PaymentRepository.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Repositories\\order\\PaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:29:56.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Repositories\\order\\IPaymentRepository.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\IPaymentRepository.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Repositories\\order\\IPaymentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:29:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Repositories\\order\\OrderRepository.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\OrderRepository.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Repositories\\order\\OrderRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:04:05.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "MongoDBEcomSYS\\Repositories\\order\\IOrderRepository.cs",
+              "ToolTip": "C:\\fpt\\MongoDBEcomSYS\\MongoDBEcomSYS\\Repositories\\order\\IOrderRepository.cs",
+              "RelativeToolTip": "MongoDBEcomSYS\\Repositories\\order\\IOrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T08:03:46.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
